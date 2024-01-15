@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* // ``````````````````````````` Header `````````````````````````````````// */
+body{
+  background-image:url(/Images/12Artboard\ 3.png);
+  background-size: cover;
+}
+.navbar-brand {
+  width: 80px;
+}
+
+.navbar-title {
+color: gray;
+}
+.enter{
+  color:black;
+  text-align: center;
+}
+.username{
+  background-color:lightgray;
+  border-radius: 8px;
+  width: 330px;
+  box-shadow: 0 3px #b1b5b2
+}
+.password{
+  background-color: lightgray;
+  border-radius: 8px;
+  width: 330px;
+  box-shadow: 0 3px #b1b5b2
+}
+.checkbox{
+  width: 30px;
+  height: 30px;
+  background-color:lightgray;
+}
+.submit{
+  background-color:#1c913b;
+  color: white;
+  width: 330px;
+  border-radius: 8px;
+  box-shadow: 0 3px #d2d9d4
+}
+.submit:hover{
+  transition: 0.8s;
+}
+.forgot-password-link{
+  color:#7c7e80;
+  text-decoration: none;
+}
+.form{
+  background-color: white; 
+  border-radius: 50px;
+  box-shadow: 0 3px #b1b5b2;
+}
+.create-account-link{
+  color:#7c7e80;
+  text-decoration: none;
+}
+.facebook-link{
+  color: black;
+}
+.google-link{
+  color: black;
+  padding-right: 30px;
+}
+.instagram-link{
+  color: black;
+  padding-right: 30px;
+}
